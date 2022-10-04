@@ -1,1 +1,2 @@
-my new readme
+nice coding with alx
+alx software developer
